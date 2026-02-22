@@ -1,4 +1,4 @@
-# 🐝 HiveMind-Swarm: The Decentralized AI Network
+# 🐝 openclaw Hive-Swarm: The Decentralized AI Network
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Phase: Testnet](https://img.shields.io/badge/Phase-Testnet_Live-success.svg)]()
